@@ -1,3 +1,5 @@
+![Illustration of BayMax](/images/Baymax.Big-Hero-6.webp){: .align-center}
+
 ---
 permalink: /
 title: "👋🏼 Hello there, I am Tonny!"
@@ -6,8 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Illustration of BayMax](/images/Baymax.Big-Hero-6.webp){: .align-right}
 
 👨🏻‍💻 I am a first year graduate student at the TU Delft.
 
