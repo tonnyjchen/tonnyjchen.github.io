@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration of BayMax](/images/Baymax.Big-Hero-6.webp){: .align-right}
+
 👨🏻‍💻 I am a first year graduate student at the TU Delft.
 
 📖 I am currently studying [MSc Robotics](https://www.tudelft.nl/en/education/programmes/masters/robotics/msc-robotics).
