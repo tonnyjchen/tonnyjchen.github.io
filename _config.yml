@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tonny Chen"
-  pronouns         : "He/Him"
-  bio              : "Always Learning"
+  pronouns         : #
+  bio              : "Robotics Engineer"
   location         : "Delft, Netherlands"
-  employer         : "Delft University of Technology"
-  uri              : # URL
+  employer         : "Delft University of Technology" 
   email            : "tjwchen@icloud.com" 
 
   # Academic websites
