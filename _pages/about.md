@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of BayMax](/images/Baymax.Big-Hero-6.webp){style="border-radius: 50%; width: 333px;"}
+![Illustration of BayMax](/images/Baymax.Big-Hero-6.webp){: .align-right width="333px";}
 
 👨🏻‍💻 I am a first year graduate student at the TU Delft.
 
